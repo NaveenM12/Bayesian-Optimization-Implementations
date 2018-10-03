@@ -1,0 +1,21 @@
+{
+    "language"        : "PYTHON",
+    "main-file"       : "experiment.py",
+    "experiment-name" : "mnist_test",
+    "likelihood"      : "NOISELESS",
+    "variables" : {
+        "filters" : {
+            "type" : "INT",
+            "size" : 1,
+            "min"  : 15,
+            "max"  : 50
+        },
+        "num_units" : {
+            "type" : "INT",
+            "size" : 1,
+            "min"  : 100,
+            "max"  : 150
+        }
+    }
+}
+
