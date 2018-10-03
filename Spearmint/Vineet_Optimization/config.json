@@ -1,0 +1,27 @@
+{
+    "language"        : "PYTHON",
+    "main-file"       : "Vineets.py",
+    "experiment-name" : "vineet_test",
+    "likelihood"      : "NOISELESS",
+    "variables" : {
+        "num_conv_filters_1" : {
+            "type" : "INT",
+            "size" : 1,
+            "min"  : 15,
+            "max"  : 45
+        },
+        "num_conv_filters_2" : {
+            "type" : "INT",
+            "size" : 1,
+            "min"  : 46,
+            "max"  : 85
+        },
+        "num_units" : {
+            "type" : "INT",
+            "size" : 1,
+            "min"  : 490,
+            "max"  : 530
+        }
+    }
+}
+
