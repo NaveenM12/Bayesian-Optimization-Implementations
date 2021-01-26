@@ -1,10 +1,9 @@
 # Bayesian-Optimization-Implementations
 Implementation of Various Github Repositories for Bayesian Optimization on basic Neural Networks 
 
-EACH FOLDER CONTAINS THE DOCUMENTS CHANGED/CREATED FOR THE OPTIMIZATION FOR THE MODEL USING THE SPECIFIC REPOSITORY.
+Each folder contains the documents changed/created for the optimization for the model using the specific repository.
 
-THE OTHER FILES AND INSTRUCTIONS THAT ARE REQUIRED TO RUN EACH OPTIMIZATION CAN BE FOUND THROUGH THE OTHER GITHUB REPOSITORIES LINKED BELOW
-
+The other files and instructions that are required to run each optimization can be found through the other github repositories linked below.
 
 GPyOpt --- https://github.com/SheffieldML/GPyOpt
 
